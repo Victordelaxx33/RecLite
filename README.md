@@ -7,6 +7,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Material You](https://img.shields.io/badge/Material%20You-D0BCFF?style=for-the-badge&logoColor=black)
 ![AIDE](https://img.shields.io/badge/Hecho%20en-AIDE-6750A4?style=for-the-badge)
+[![Descargas](https://img.shields.io/github/downloads/Victordelaxx33/RecLite/total?style=for-the-badge&logo=github&label=Descargas&color=D0BCFF&labelColor=4F378B)](https://github.com/Victordelaxx33/RecLite/releases)
+[![Última versión](https://img.shields.io/github/v/release/Victordelaxx33/RecLite?style=for-the-badge&label=Versi%C3%B3n&color=D0BCFF&labelColor=4F378B)](https://github.com/Victordelaxx33/RecLite/releases/latest)
 
 </div>
 
