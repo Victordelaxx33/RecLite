@@ -12,7 +12,7 @@
 [![Descargas](https://img.shields.io/github/downloads/Victordelaxx33/RecLite/total?style=for-the-badge&logo=github&label=Descargas&color=D0BCFF&labelColor=4F378B)](https://github.com/Victordelaxx33/RecLite/releases)
 [![Última versión](https://img.shields.io/github/v/release/Victordelaxx33/RecLite?style=for-the-badge&label=Versi%C3%B3n&color=D0BCFF&labelColor=4F378B)](https://github.com/Victordelaxx33/RecLite/releases/latest)
 
-[**⬇️ Descargar APK**](https://github.com/Victordelaxx33/RecLite/releases/latest) · [**📸 Capturas**](#-capturas-de-pantalla) · [**📲 Instalar con Komi Store**](#-instalación)
+[**⬇️ Descargar APK**](https://github.com/Victordelaxx33/RecLite/releases/latest) · [**📲 Instalación**](#-instalación) · [**📸 Capturas**](#-capturas-de-pantalla)
 
 </div>
 
@@ -81,17 +81,14 @@ La app cambia al instante y después puedes ajustarla en Ajustes.
 
 ## 📲 Instalación
 
-### Con Komi Store (recomendado)
-[Komi Store](https://github.com/kurikomi-labs/komi-store) es una tienda de apps de código abierto que muestra las apps publicadas en GitHub Releases y las mantiene actualizadas.
+Descarga RecLite directamente desde GitHub:
 
-1. Instala Komi Store.
-2. Busca **RecLite** (o abre este repositorio desde la tienda).
-3. Toca **Instalar**. Komi Store te avisará cuando haya versiones nuevas.
-
-### Con el APK
 1. Ve a [**Releases**](https://github.com/Victordelaxx33/RecLite/releases/latest).
 2. Descarga el archivo `.apk` de la última versión.
 3. Ábrelo y, si Android lo pide, permite instalar apps de esta fuente.
+4. Abre RecLite y acepta los permisos para empezar a grabar.
+
+> 🔄 Para actualizar, descarga el APK de la versión nueva e instálalo encima: no pierdes tus ajustes.
 
 ---
 
@@ -118,8 +115,6 @@ El proyecto está hecho para abrirse y compilarse en **CodeAssist** en un dispos
 1. Abre el proyecto en CodeAssist.
 2. Compila el proyecto (**Build / Assemble**) para generar el APK.
 3. Firma el APK y súbelo como archivo adjunto en un nuevo [Release](https://github.com/Victordelaxx33/RecLite/releases/new).
-
-> 💡 Para que **Komi Store** la muestre, el Release debe incluir el archivo `.apk` como adjunto (no basta con el código fuente). Mira `RELEASE_NOTES.md` para una plantilla.
 
 ---
 
